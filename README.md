@@ -1,6 +1,6 @@
 ## JVM虚拟机架构图
 
-### ![image.png](https://cdn.nlark.com/yuque/0/2022/png/26075477/1648197704119-bd67e348-bcaf-444e-8726-ce5066291eaa.png#clientId=u73edfeae-bbcc-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=352&id=u5a497e85&margin=%5Bobject%20Object%5D&name=image.png&originHeight=352&originWidth=391&originalType=binary&ratio=1&rotation=0&showTitle=false&size=90937&status=done&style=none&taskId=u96db8be4-5527-4317-9366-d83cc5eb691&title=&width=391)
+### ![](https://cdn.nlark.com/yuque/0/2022/png/26075477/1648197704119-bd67e348-bcaf-444e-8726-ce5066291eaa.png#clientId=u73edfeae-bbcc-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=352&id=u5a497e85&margin=%5Bobject%20Object%5D&name=image.png&originHeight=352&originWidth=391&originalType=binary&ratio=1&rotation=0&showTitle=false&size=90937&status=done&style=none&taskId=u96db8be4-5527-4317-9366-d83cc5eb691&title=&width=391)
 
 ## 一、类加载器(类加载子系统)
 
